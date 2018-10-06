@@ -60,7 +60,7 @@ p {
 
 .container {
   max-width: 1000px;
-  padding-top: 20px;
+  padding: 20px;
   margin: 0 auto;
 }
 
